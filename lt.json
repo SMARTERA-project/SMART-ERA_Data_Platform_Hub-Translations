@@ -73,6 +73,8 @@
     "dsi_scch_analysis_description": "Duomenys, naudojami Data dashboard analizės puslapyje",
     "dsi_bih_description": "Atviri duomenų rinkiniai, paskelbti BIH atvirų duomenų portale - Bosnijos ir Hercegovinos duomenų portale.",
     "dsi_bih_purpose": "Integruota siekiant pateikti nacionalinius atvirus duomenis pilotiniams projektams Bosnijoje ir Hercegovinoje.",
+    "dsi_bih_portal_provider": "Duomenys iš BIH atvirųjų duomenų portalo (Bosnijos ir Hercegovinos duomenų portalas)",
+    "dsi_bih_portal_endpoint": "https://bhas.gov.ba/?lang=en",
     "dsi_Description": "Į Duomenų platformą integruoti duomenų šaltiniai",
     "dsi_Section": "Integruoti duomenų šaltiniai",
     "dsi_Provider": "Teikėjas",

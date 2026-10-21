@@ -88,6 +88,8 @@
     "dsi_scch_analysis_description": "Dati utilizzati per la pagina Analisi del Data dashboard",
     "dsi_bih_description": "Dataset aperti pubblicati sul Portale Open Data della BIH, il portale dei dati della Bosnia ed Erzegovina.",
     "dsi_bih_purpose": "Integrato per fornire dati aperti nazionali ai pilot in Bosnia ed Erzegovina.",
+    "dsi_bih_portal_provider": "Dati dal portale Open Data della BIH (portale dati della Bosnia ed Erzegovina)",
+    "dsi_bih_portal_endpoint": "https://bhas.gov.ba/?lang=en",
     "Public Tools": "Componenti Software della Data Platform",
     "Settings": "Impostazioni",
     "queryEngine": "Motore di interrogazione",

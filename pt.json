@@ -73,6 +73,8 @@
     "dsi_scch_analysis_description": "Dados utilizados para a página de Análise do Data dashboard",
     "dsi_bih_description": "Conjuntos de dados abertos publicados no Portal de Dados Abertos da BIH, o portal de dados da Bósnia e Herzegovina.",
     "dsi_bih_purpose": "Integrado para disponibilizar dados abertos nacionais aos pilotos na Bósnia e Herzegovina.",
+    "dsi_bih_portal_provider": "Dados do Portal de Dados Abertos da BIH (portal de dados da Bósnia e Herzegovina)",
+    "dsi_bih_portal_endpoint": "https://bhas.gov.ba/?lang=en",
     "dsi_Description": "Fontes de dados integradas na Plataforma de Dados",
     "dsi_Section": "Fontes de dados integradas",
     "dsi_Provider": "Fornecedor",

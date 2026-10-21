@@ -73,6 +73,8 @@
     "dsi_scch_analysis_description": "Podaci koji se koriste za stranicu Analiza u Data dashboard",
     "dsi_bih_description": "Otvoreni skupovi podataka objavljeni na Portalu otvorenih podataka BiH, portalu podataka Bosne i Hercegovine.",
     "dsi_bih_purpose": "Integrisano kako bi se pilot projektima u Bosni i Hercegovini pružili nacionalni otvoreni podaci.",
+    "dsi_bih_portal_provider": "Podaci sa BIH Open Data Portala (portal podataka Bosne i Hercegovine)",
+    "dsi_bih_portal_endpoint": "https://bhas.gov.ba/?lang=en",
     "dsi_Description": "Izvori podataka integrisani u Platformu za podatke",
     "dsi_Section": "Integrisani izvori podataka",
     "dsi_Provider": "Pružalac",

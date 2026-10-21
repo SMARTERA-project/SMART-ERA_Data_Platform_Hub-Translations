@@ -73,6 +73,8 @@
     "dsi_scch_analysis_description": "Tiedot, joita käytetään Data dashboardin Analyysi-sivulla",
     "dsi_bih_description": "BIH:n avoimen datan portaalissa, Bosnia ja Hertsegovinan dataportaalissa, julkaistut avoimet aineistot.",
     "dsi_bih_purpose": "Integroitu tarjoamaan kansallista avointa dataa Bosnia ja Hertsegovinan pilottihankkeille.",
+    "dsi_bih_portal_provider": "Tiedot BIH:n avoimen datan portaalista (Bosnia ja Hertsegovinan dataportaali)",
+    "dsi_bih_portal_endpoint": "https://bhas.gov.ba/?lang=en",
     "dsi_Description": "Data-alustaan integroidut tietolähteet",
     "dsi_Section": "Integroidut tietolähteet",
     "dsi_Provider": "Toimittaja",
