@@ -69,6 +69,8 @@
     "dsi_osm_dashboard_description": "Tietoja kiinnostavien kohteiden, kuten yritysten toimistojen, coworking-tilojen jne., määrästä, joita Data Dashboard käyttää",
     "dsi_scch_description": "SCCH:n toimittamista staattisista PDF-dokumenteista poimittua dataa.",
     "dsi_scch_purpose": "Integroitu, jotta vain staattisina PDF-tiedostoina saatavilla oleva tieto voidaan hyödyntää rakenteisena datana Data-alustalla.",
+    "dsi_scch_analysis_provider": "SCCH-tiedot (tiedot staattisista PDF-tiedostoista)",
+    "dsi_scch_analysis_description": "Tiedot, joita käytetään Data dashboardin Analyysi-sivulla",
     "dsi_bih_description": "BIH:n avoimen datan portaalissa, Bosnia ja Hertsegovinan dataportaalissa, julkaistut avoimet aineistot.",
     "dsi_bih_purpose": "Integroitu tarjoamaan kansallista avointa dataa Bosnia ja Hertsegovinan pilottihankkeille.",
     "dsi_Description": "Data-alustaan integroidut tietolähteet",

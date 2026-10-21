@@ -69,6 +69,8 @@
     "dsi_osm_dashboard_description": "Podatki o številu zanimivih točk, kot so pisarne podjetij, coworking prostori itd., ki jih uporablja Data Dashboard",
     "dsi_scch_description": "Podatki, pridobljeni iz statičnih dokumentov PDF, ki jih zagotavlja SCCH.",
     "dsi_scch_purpose": "Integrirano, da so informacije, ki so na voljo samo v statičnih datotekah PDF, uporabne kot strukturirani podatki na podatkovni platformi.",
+    "dsi_scch_analysis_provider": "Podatki SCCH (podatki iz statičnih PDF-jev)",
+    "dsi_scch_analysis_description": "Podatki, uporabljeni za stran Analiza v Data dashboard",
     "dsi_bih_description": "Odprti nabori podatkov, objavljeni na portalu odprtih podatkov BiH, podatkovnem portalu Bosne in Hercegovine.",
     "dsi_bih_purpose": "Integrirano za zagotavljanje nacionalnih odprtih podatkov za pilotne projekte v Bosni in Hercegovini.",
     "dsi_Description": "Viri podatkov, integrirani v podatkovno platformo",

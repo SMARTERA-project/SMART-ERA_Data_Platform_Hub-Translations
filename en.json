@@ -84,6 +84,8 @@
     "dsi_osm_dashboard_description": "Data about number of POIs as Company offices, coworking spaces, etc., data used by Data Dashboard",
     "dsi_scch_description": "Data extracted from static PDF documents provided by SCCH.",
     "dsi_scch_purpose": "Integrated to make information available only in static PDFs usable as structured data on the Data Platform.",
+    "dsi_scch_analysis_provider": "SCCH data (data from static PDFs)",
+    "dsi_scch_analysis_description": "Data used for Analysis page of Data dashboard",
     "dsi_bih_description": "Open datasets published on the BIH Open Data Portal, the data portal of Bosnia and Herzegovina.",
     "dsi_bih_purpose": "Integrated to provide national open data for the pilots in Bosnia and Herzegovina.",
     "Public Tools": "Data Platform Software Components",
