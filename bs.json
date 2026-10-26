@@ -1,4 +1,4 @@
-{
+﻿{
     "fileVersion": {
         "version": "1.0"
     },
@@ -36,6 +36,7 @@
     "dsi_municipia_bulgaria_web_section_views": "Broj pregleda sekcija web stranice",
     "dsi_municipia_bulgaria_web_page_views": "Broj pregleda stranica/sadržaja",
     "dsi_municipia_bulgaria_web_external_clicks": "Broj klikova na vanjske web stranice",
+    "dsi_municipia_bulgaria_description": "Podaci o korištenju turističke platforme – Mobilna aplikacija i web portal WISITA (Bugarska): Podaci generirani putem mobilne aplikacije WISITA i web portala razvijenih za pilot-područje Bugarske, sa sadržajem prilagođenim lokalnom teritoriji i njеним korisnicima. Integrisani zapisi o korištenju uključuju broj preuzimanja aplikacije, pregleda itinerara i tematskih ruta, te pregleda tačaka interesa (POI), kako ukupno tako i unutar pojedinačnih ruta. Statistike web portala uključuju posjete web stranici, pregleda pojedinačnih sekcija i stranica sadržaja, te klikova na vanjske web stranice. Ovi podaci podržavaju procjenu interakcije korisnika s digitalnim turističkim resursima, pružajući uvid u popularnost sadržaja, interese posjetioca i učinkovitost platformi u promicanju lokalnih destinacija i iskustava.",
     "dsi_municipia_bulgaria_purpose": "Integrisano kako bi se pilot za Bugarsku - Discover Devetaki Plateau podržao turističkim podacima i podacima o posjetiocima.",
     "dsi_municipia_herzegovina_app_title": "Mobilna aplikacija WISITA – Zapisnik korištenja",
     "dsi_municipia_herzegovina_app_downloads": "Broj preuzimanja aplikacije (iz trgovine)",
@@ -46,6 +47,7 @@
     "dsi_municipia_herzegovina_web_section_views": "Broj pregleda sekcija web stranice",
     "dsi_municipia_herzegovina_web_page_views": "Broj pregleda stranica/sadržaja",
     "dsi_municipia_herzegovina_web_external_clicks": "Broj klikova na vanjske web stranice",
+    "dsi_municipia_herzegovina_description": "Podaci o korištenju turističke platforme – Mobilna aplikacija i web portal WISITA (Istočna Hercegovina): Podaci generirani putem mobilne aplikacije WISITA i web portala konfiguriranih za pilot-područje Istočne Hercegovine. Integrisani zapisi o korištenju uključuju broj preuzimanja aplikacije, pregleda itinerara i tematskih ruta, te pregleda tačaka interesa (POI), kako ukupno tako i unutar pojedinačnih ruta. Statistike web portala pokrivaju posjete web stranici, pregleda specifičnih sekcija i stranica sadržaja, te klikova na vanjske web stranice. Ovi podaci omogućavaju analizu angažmana korisnika s regionalnim turističkim informacijama, pomažući u identifikaciji najčešće pristupačnih atrakcija i ruta te procjenu dosega online usluga za promociju turizma.",
     "dsi_municipia_herzegovina_purpose": "Integrisano kako bi se pilot East Herzegovina Trails podržao turističkim podacima i podacima o posjetiocima.",
     "dsi_municipia_valdisole_app_title": "Mobilna aplikacija WISITA – Zapisnik korištenja",
     "dsi_municipia_valdisole_app_downloads": "Broj preuzimanja aplikacije (iz trgovine)",
@@ -56,9 +58,10 @@
     "dsi_municipia_valdisole_web_section_views": "Broj pregleda sekcija web stranice",
     "dsi_municipia_valdisole_web_page_views": "Broj pregleda stranica/sadržaja",
     "dsi_municipia_valdisole_web_external_clicks": "Broj klikova na vanjske web stranice",
+    "dsi_municipia_valdisole_description": "Podaci o korištenju turističke platforme – Mobilna aplikacija i web portal WISITA (Val di Sole, Italija): Podaci generirani putem mobilne aplikacije WISITA i web portala razvijenih za pilot-područje Val di Sole u Italiji. Integrisani zapisi o korištenju uključuju broj preuzimanja mobilne aplikacije, pregleda itinerara i tematskih ruta, te pregleda tačaka interesa (POI), kako ukupno tako i unutar pojedinačnih ruta. Statistike web portala uključuju broj posjeta web stranici, pregleda specifičnih sekcija i stranica sadržaja, te klikova na vanjske web stranice. Ovi podaci podržavaju praćenje angažmana korisnika s turističkim sadržajima i uslugama, pomažući u procjeni vidljivosti lokalnih atrakcija i učinkovitosti digitalnih alata u promociji teritorija.",
     "dsi_municipia_valdisole_purpose": "Integrisano kako bi se pilot Val di Sole podržao turističkim podacima i podacima o posjetiocima.",
     "dsi_eurostat_description": "Zvanična evropska statistika (demografski, ekonomski, društveni i teritorijalni pokazatelji) preuzeta putem Evropskog portala podataka.",
-    "dsi_eurostat_purpose": "Integrisano kako bi se pružio statistički kontekst i referentne vrijednosti za pilot područja u SMART-ERA kontrolnim pločama.",    "dsi_osm_description": "Geoprostorni podaci o tačkama interesa (POI), mjestima, cestama i stazama iz OpenStreetMap-a.",
+    "dsi_eurostat_purpose": "Integrisano kako bi se pružio statistički kontekst i referentne vrijednosti za pilot područja u SMART-ERA kontrolnim pločama.",    "dsi_osm_description": "Podaci o tačkama interesa i teritorijalnoj infrastrukturi – OpenStreetMap: Podaci izvorni iz OpenStreetMap-a koji pokrivaju sva pilot-područja SMART ERA, pružajući geoprostorne informacije o tačkama interesa (POI) i lokalnoj infrastrukturi. Integrisani podaci uključuju indikatore o poslovnoj i zaposlenjačkoj infrastrukturi, kao što su kancelarije kompanija i coworking prostori; javne i komercijalne usluge, uključujući ljekarne, bolnice i kafiće; i obrazovne ustanove, kao što su vrtići, škole i fakulteti. Ovi podaci podržavaju analizu dostupnosti i prostorne raspodjele usluga i objekata u pilot-teritorijima, omogućavajući teritorijalne usporedbe i doprinose razvoju geografskih indikatora i usluga podrške odlučivanju zasnovanim na podacima.",
     "dsi_osm_purpose": "Integrisano u DataDashboard radi prikaza i obogaćivanja POI-ja na kartama.",
     "dsi_osm_dashboard_provider": "OpenStreetMap podaci o POI u DataDashboard",
     "dsi_osm_dashboard_endpoint": "https://www.openstreetmap.org/",
@@ -66,8 +69,8 @@
     "dsi_scch_description": "Podaci izdvojeni iz statičnih PDF dokumenata koje je dostavio SCCH.",
     "dsi_scch_purpose": "Integrisano kako bi informacije dostupne samo u statičnim PDF-ovima postale upotrebljive kao strukturirani podaci na Platformi za podatke.",
     "dsi_scch_analysis_provider": "SCCH podaci",
-    "dsi_scch_analysis_description": "Podaci koji se koriste za stranicu Analiza u Data dashboard",
-    "dsi_bih_description": "Otvoreni skupovi podataka objavljeni na Portalu otvorenih podataka BiH, portalu podataka Bosne i Hercegovine.",
+    "dsi_scch_analysis_description": "Teritorijalna analiza i analitički indikatori – SCCH: Podaci koje pruža SCCH i koji se koriste u sekciji Analiza na SMART ERA Data Dashboard-u, pokrivajući sva pilot-područja. Podaci se sastoje od analitičkih izlaza i indikatora prezentiranih u PDF izještajima, podržavajući interpretaciju teritorijalnih karakteristika i usporedbu relevantnih aspekata u pilot-područjima. Ovi resursi pružaju analitičku bazu za razumijevanje lokalnih konteksta i podršku donošenju odluka na bazi dokaza unutar projekta SMART ERA.",
+    "dsi_bih_description": "Zvanični Statistički Podaci – Agencija za Statistiku Bosne i Hercegovine (BIH): Podaci izvorni iz zvaničnog portala otvorenih podataka Agencije za Statistiku Bosne i Hercegovine (BHAS) i odabrani za integraciju u SMART ERA Platformu za Podatke kako bi podržali pilot-područje Istočne Hercegovine. Skupovi podataka pružaju zvanične statističke informacije o Bosni i Hercegovini. Ovi podaci podržavaju analizu demografskih, socioekonomskih i teritorijalnih karakteristika relevantnih za pilot-područje, dopunjujući druge integrisane izvore podataka i pružajući statističku bazu za teritorijalnu procjenu i donošenje odluka na bazi dokaza.",
     "dsi_bih_purpose": "Integrisano kako bi se pilot projektima u Bosni i Hercegovini pružili nacionalni otvoreni podaci.",
     "dsi_bih_portal_provider": "Podaci sa BIH Open Data Portala (portal podataka Bosne i Hercegovine)",
     "dsi_bih_portal_endpoint": "https://bhas.gov.ba/?lang=en",
