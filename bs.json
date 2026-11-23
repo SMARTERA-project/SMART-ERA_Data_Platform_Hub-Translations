@@ -98,6 +98,8 @@
     "dsi_UpdateFrequency": "Učestalost ažuriranja / evidentiranja",
     "dsi_Documentation": "Dokumentacija",
     "dsi_neurofarming_purpose": "Integrisano kako bi se Izazov #4 (CH#4) podržao podacima o operativnom praćenju i performansama.",
+    "dsi_dmrural_description": "Podaci o ruralnom poslovanju i angažmanu korisnika – SmartVill/NiAlKa: Podaci koji se odnose na pilot regije Oulu. Integrirani skupovi podataka uključuju Imenik ruralnih poduzeća, koji sadrži mapirani popis registriranih profesionalaca i poduzeća koja djeluju u regiji, zajedno s informacijama o njihovim poslovnim kategorijama i općinama. Platforma također pruža Agregirane metrike angažmana, uključujući ukupan broj recenzija, spremljenih favorita i internih poruka povezanih s ovim lokalnim uslugama. Zajedno, ovi podaci podržavaju analizu ruralnih poslovnih ekosustava, vidljivost i dostupnost lokalnih usluga te angažman korisnika na digitalnim platformama u ruralnim zajednicama.",
+    "dsi_dmrural_purpose": "Integrisano kako bi se Izazov #5 (CH#5) podržao podacima o ruralnom poslovanju i angažmanu korisnika.",
     "dsi_toyota_purpose": "Integrisano kako bi se Izazov #9 (CH#9) podržao podacima o mobilnosti i održivosti.",
     "dsi_devetaki_purpose": "Integrisano kako bi se Izazov #11 (CH#11) podržao turističkim i teritorijalnim podacima.",
     "Public Tools": "Softverske Komponente Platforme za Podatke",

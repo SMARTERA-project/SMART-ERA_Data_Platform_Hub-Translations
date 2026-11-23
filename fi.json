@@ -98,6 +98,8 @@
     "dsi_UpdateFrequency": "Päivitys- / lokitustiheys",
     "dsi_Documentation": "Dokumentaatio",
     "dsi_neurofarming_purpose": "Integroitu tukemaan haastetta #4 (CH#4) operatiivisen seurannan ja suorituskyvyn datalla.",
+    "dsi_dmrural_description": "Maaseutuyritys- ja käyttäjäsitoutumisdata – SmartVill/NiAlKa: Oulun alueen pilottiin keskittyvä data. Integroidut aineistot sisältävät maaseutuyritysluettelon, joka on kartoitettu luettelo alueella toimivista rekisteröidyistä ammatinharjoittajista ja yrityksistä sekä tiedot niiden toimialaluokista ja kunnista. Alusta tarjoaa myös yhteenvetona kootut sitoutumismittarit, mukaan lukien näihin paikallisiin palveluihin liittyvien arvostelujen, tallennettujen suosikkien ja sisäisten viestien kokonaismäärän. Yhdessä nämä tiedot tukevat maaseudun yritysekosysteemien analysointia, paikallisten palvelujen näkyvyyttä ja saavutettavuutta sekä käyttäjien sitoutumista digitaalisiin alustoihin maaseutuyhteisöissä.",
+    "dsi_dmrural_purpose": "Integroitu tukemaan haastetta #5 (CH#5) maaseutuyritys- ja käyttäjäsitoutumisdatalla.",
     "dsi_toyota_purpose": "Integroitu tukemaan haastetta #9 (CH#9) liikkuvuus- ja kestävyysdatalla.",
     "dsi_devetaki_purpose": "Integroitu tukemaan haastetta #11 (CH#11) matkailu- ja aluedatalla.",
     "Public Tools": "Data-alustan Ohjelmistokomponentit",

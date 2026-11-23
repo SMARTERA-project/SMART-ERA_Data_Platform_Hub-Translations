@@ -98,6 +98,8 @@
     "dsi_UpdateFrequency": "Atnaujinimo / žurnalo įrašų dažnumas",
     "dsi_Documentation": "Dokumentacija",
     "dsi_neurofarming_purpose": "Integruota siekiant paremti 4 iššūkį (CH#4) veiklos ir našumo stebėsenos duomenimis.",
+    "dsi_dmrural_description": "Kaimo verslo ir vartotojų įsitraukimo duomenys – SmartVill/NiAlKa: Duomenys, susiję su Oulu regiono pilotiniu projektu. Integruotus duomenų rinkinius sudaro Kaimo įmonių katalogas – regione veikiančių registruotų specialistų ir įmonių žemėlapyje pažymėtas sąrašas kartu su informacija apie jų veiklos kategorijas ir savivaldybes. Platforma taip pat pateikia suvestines įsitraukimo metrikas, įskaitant bendrą su šiomis vietinėmis paslaugomis susijusių atsiliepimų, išsaugotų mėgstamiausių ir vidinių žinučių skaičių. Kartu šie duomenys padeda analizuoti kaimo verslo ekosistemas, vietinių paslaugų matomumą ir prieinamumą bei vartotojų įsitraukimą į skaitmenines platformas kaimo bendruomenėse.",
+    "dsi_dmrural_purpose": "Integruota siekiant paremti 5 iššūkį (CH#5) kaimo verslo ir vartotojų įsitraukimo duomenimis.",
     "dsi_toyota_purpose": "Integruota siekiant paremti 9 iššūkį (CH#9) judumo ir tvarumo duomenimis.",
     "dsi_devetaki_purpose": "Integruota siekiant paremti 11 iššūkį (CH#11) turizmo ir teritoriniais duomenimis.",
     "Public Tools": "Duomenų Platformos Programinės Įrangos Komponentai",

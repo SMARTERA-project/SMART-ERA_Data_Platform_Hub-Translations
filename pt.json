@@ -98,6 +98,8 @@
     "dsi_UpdateFrequency": "Frequência de atualização / registo",
     "dsi_Documentation": "Documentação",
     "dsi_neurofarming_purpose": "Integrado para apoiar o Desafio #4 (CH#4) com dados de monitorização operacional e de desempenho.",
+    "dsi_dmrural_description": "Dados de Negócios Rurais e Envolvimento dos Utilizadores – SmartVill/NiAlKa: Dados centrados no piloto da região de Oulu. Os conjuntos de dados integrados incluem um Diretório de Empresas Rurais, composto por um inventário mapeado de profissionais e empresas registados que operam na região, juntamente com informações sobre as suas categorias de atividade e municípios. A plataforma disponibiliza ainda Métricas Agregadas de Envolvimento, incluindo o número total de avaliações, favoritos guardados e mensagens internas associadas a estes serviços locais. Em conjunto, estes dados apoiam a análise dos ecossistemas de negócios rurais, a visibilidade e acessibilidade dos serviços locais e o envolvimento dos utilizadores com plataformas digitais nas comunidades rurais.",
+    "dsi_dmrural_purpose": "Integrado para apoiar o Desafio #5 (CH#5) com dados de negócios rurais e de envolvimento dos utilizadores.",
     "dsi_toyota_purpose": "Integrado para apoiar o Desafio #9 (CH#9) com dados de mobilidade e sustentabilidade.",
     "dsi_devetaki_purpose": "Integrado para apoiar o Desafio #11 (CH#11) com dados turísticos e territoriais.",
     "Public Tools": "Componentes de Software da Plataforma de Dados",

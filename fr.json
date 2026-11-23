@@ -98,6 +98,8 @@
     "dsi_UpdateFrequency": "Fréquence de mise à jour / de journalisation",
     "dsi_Documentation": "Documentation",
     "dsi_neurofarming_purpose": "Intégré pour soutenir le défi #4 (CH#4) avec des données de suivi opérationnel et de performance.",
+    "dsi_dmrural_description": "Données sur les entreprises rurales et l'engagement des utilisateurs – SmartVill/NiAlKa : Données centrées sur le pilote de la région d'Oulu. Les jeux de données intégrés comprennent un Répertoire des entreprises rurales, c'est-à-dire un inventaire cartographié des professionnels et entreprises enregistrés exerçant dans la région, ainsi que des informations sur leurs catégories d'activité et leurs municipalités. La plateforme fournit également des Indicateurs d'engagement agrégés, notamment le nombre total d'avis, de favoris enregistrés et de messages internes associés à ces services locaux. Ensemble, ces données soutiennent l'analyse des écosystèmes d'entreprises rurales, la visibilité et l'accessibilité des services locaux, ainsi que l'engagement des utilisateurs sur les plateformes numériques dans les communautés rurales.",
+    "dsi_dmrural_purpose": "Intégré pour soutenir le défi #5 (CH#5) avec des données sur les entreprises rurales et l'engagement des utilisateurs.",
     "dsi_toyota_purpose": "Intégré pour soutenir le défi #9 (CH#9) avec des données de mobilité et de durabilité.",
     "dsi_devetaki_purpose": "Intégré pour soutenir le défi #11 (CH#11) avec des données touristiques et territoriales.",
     "Public Tools": "Composants Logiciels de la Plateforme de Données",

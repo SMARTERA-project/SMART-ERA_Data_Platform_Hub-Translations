@@ -98,6 +98,8 @@
     "dsi_UpdateFrequency": "Pogostost posodabljanja / beleženja",
     "dsi_Documentation": "Dokumentacija",
     "dsi_neurofarming_purpose": "Integrirano v podporo izzivu #4 (CH#4) s podatki o operativnem spremljanju in zmogljivosti.",
+    "dsi_dmrural_description": "Podatki o podeželskem poslovanju in angažiranosti uporabnikov – SmartVill/NiAlKa: Podatki, osredotočeni na pilotni projekt v regiji Oulu. Vključeni nabori podatkov obsegajo Imenik podeželskih podjetij, torej kartiran popis registriranih strokovnjakov in podjetij, ki delujejo v regiji, skupaj z informacijami o njihovih poslovnih kategorijah in občinah. Platforma zagotavlja tudi Agregirane kazalnike angažiranosti, vključno s skupnim številom ocen, shranjenih priljubljenih in notranjih sporočil, povezanih s temi lokalnimi storitvami. Skupaj ti podatki podpirajo analizo podeželskih poslovnih ekosistemov, vidnost in dostopnost lokalnih storitev ter angažiranost uporabnikov na digitalnih platformah v podeželskih skupnostih.",
+    "dsi_dmrural_purpose": "Integrirano v podporo izzivu #5 (CH#5) s podatki o podeželskem poslovanju in angažiranosti uporabnikov.",
     "dsi_toyota_purpose": "Integrirano v podporo izzivu #9 (CH#9) s podatki o mobilnosti in trajnosti.",
     "dsi_devetaki_purpose": "Integrirano v podporo izzivu #11 (CH#11) s turističnimi in teritorialnimi podatki.",
     "Public Tools": "Programske Komponente Podatkovne Platforme",
